@@ -21,16 +21,14 @@ Officium is a recruitment platform that provides hiring-related services to corp
 
 For Frontend : HTML5, CSS3, Javascript.
 
-For database: Json Server.
+For database: Json Server, XAMPP
+.
   
-Tools: Netlify
-
----
-
 
 
 ---
-Deployed Link : https://astounding-pie-721745.netlify.app/
+
+
 
 ----
 <h1 align="center">✨Thank You✨</h1>
